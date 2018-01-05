@@ -1,0 +1,52 @@
+address: 5 
+an: 8 67 
+battle: 126 
+burden: 30 127 
+by: 23 23 44 47 75 83 84 
+casting: 59 
+cultural: 36 
+deadly: 85 
+depths: 102 
+destroy: 97 
+destruction: 75 76 
+doing: 53 
+doubt: 79 79 
+encourage: 102 
+every: 29 63 
+faith: 140 
+far: 44 67 
+foe: 22 31 
+form: 43 
+generations: 136 
+has: 22 26 121 
+here: 154 
+home: 27 
+i: 9 137 138 138 
+ill: 29 
+inaugural: 5 
+inside: 48 
+it: 29 53 54 55 69 114 138 141 
+join: 62 110 134 
+light: 141 142 
+many: 54 
+meet: 30 39 
+men: 59 
+much: 34 
+never: 80 90 90 
+order: 31 
+peaceful: 60 
+remember: 47 
+rich: 55 
+rights: 17 25 
+sacrifice: 151 
+science: 75 100 
+service: 123 
+sign: 89 
+struggling: 50 
+subject: 89 
+success: 31 120 
+summons: 125 
+that: 16 20 20 22 29 43 47 61 63 66 74 79 85 86 88 133 134 139 142 154 
+undoing: 25 
+when: 78 
+where: 67 111 
